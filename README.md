@@ -1,6 +1,6 @@
 # probable-invention
 Twitter Sentiment Analysis using BERT &amp; K-Means Clustering
-\nThis project performs sentiment analysis on tweets using BERT embeddings and unsupervised learning (K-Means clustering). The workflow includes:
+/nThis project performs sentiment analysis on tweets using BERT embeddings and unsupervised learning (K-Means clustering). The workflow includes:
 
 Data Preprocessing: Cleaning and tokenizing tweets
 BERT Embeddings: Converting tweets into vector representations
